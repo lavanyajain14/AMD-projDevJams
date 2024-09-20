@@ -1,1 +1,1 @@
-# AMD-projDevJams
+# fin-projDevJams
